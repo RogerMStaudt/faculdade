@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cde48a5-49d5-4ca2-a840-79ad2f70878c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../javaSemana5-6/Exercicios/laboratorio1/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaSemana5-6/Exercicios/laboratorio1/src/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaSemana5-6/Exercicios/laboratorio1/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaSemana5-6/Exercicios/programacao1/Exercicios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaSemana5-6/Exercicios/programacao1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaSemana5-6/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaSemana5-6/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaSemana5-6/Exercicios/Exercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaSemana5-6/Exercicios/laboratorio1/laboratorio1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaSemana5-6/Exercicios/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaSemana5-6/out/production/Exercicios/Main$1ContaCorrente.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javaSemana5-6/out/production/Exercicios/Main$1ContaCorrente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaSemana5-6/out/production/Exercicios/Main$Computador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaSemana5-6/out/production/Exercicios/Main$Cor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaSemana5-6/out/production/Exercicios/Main$Lampada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaSemana5-6/out/production/Exercicios/Main$Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaSemana5-6/out/production/Exercicios/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javaSemana5-6/out/production/Exercicios/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RogerMStaudt"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RogerMStaudt/faculdade.git",
+    "accountId": "3a2ff40c-a648-4787-b831-43c796ee27c5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2vHWI6D65XMuceEAf5uCuZKyp45" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/roger/Desktop/faculdade/Correcao_Cliente_Livro",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cde48a5-49d5-4ca2-a840-79ad2f70878c" name="Changes" comment="" />
+      <created>1743802397168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743802397168</updated>
+      <workItem from="1743802398465" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
