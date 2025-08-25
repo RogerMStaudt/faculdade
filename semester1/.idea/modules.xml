@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FrutaPessoa/FrutaPessoa.iml" filepath="$PROJECT_DIR$/FrutaPessoa/FrutaPessoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSemana7-8/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/javaSemana7-8/exercicios/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/faculdade.iml" filepath="$PROJECT_DIR$/faculdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSemana5-6/Exercicios/laboratorio1/laboratorio1.iml" filepath="$PROJECT_DIR$/javaSemana5-6/Exercicios/laboratorio1/laboratorio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSemana5-6/primeiroProjeto/primeiroProjeto.iml" filepath="$PROJECT_DIR$/javaSemana5-6/primeiroProjeto/primeiroProjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSemana7-8/programacao1/programacao1.iml" filepath="$PROJECT_DIR$/javaSemana7-8/programacao1/programacao1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSemana5-6/Exercicios/programacao1/programacao2.iml" filepath="$PROJECT_DIR$/javaSemana5-6/Exercicios/programacao1/programacao2.iml" />
+    </modules>
+  </component>
+</project>

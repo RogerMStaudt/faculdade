@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e7d9fd8-9516-4126-a9d4-da04d10b6c5f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Correcao_Cliente_Livro/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Correcao_Cliente_Livro/Cliente.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Correcao_Cliente_Livro/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Correcao_Cliente_Livro/Livro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Correcao_Cliente_Livro/Livro.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Correcao_Cliente_Livro/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Correcao_Cliente_Livro/Principal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Correcao_Cliente_Livro/Principal.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Correcao_Cliente_Livro/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Correcao_Cliente_Livro/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Correcao_Cliente_Livro/Teclado.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Correcao_Cliente_Livro/Teclado.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Correcao_Cliente_Livro/Teclado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Correcao_Cliente_Livro/package.bluej" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaSemana5-6/out/production/laboratorio1/Livro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaSemana5-6/out/production/laboratorio1/Principal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaSemana7-8.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RogerMStaudt&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RogerMStaudt/faculdade.git&quot;,
+    &quot;accountId&quot;: &quot;3a2ff40c-a648-4787-b831-43c796ee27c5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2w2bxPR3piZFQ6pjHVb4yeCTHhw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/roger/Desktop/faculdade/javaSemana7-8/exercicios/livro",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e7d9fd8-9516-4126-a9d4-da04d10b6c5f" name="Changes" comment="" />
+      <created>1745242863794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745242863794</updated>
+      <workItem from="1745242865542" duration="189000" />
+      <workItem from="1745688327650" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
