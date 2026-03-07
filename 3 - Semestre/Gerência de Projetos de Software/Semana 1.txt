@@ -1,0 +1,14 @@
+Fundamentos de Gestão de Projetos
+
+Projeto: esforço para criar um produto.
+   - Principal característica: natureza temporária.
+      - Como gerenciar início e fim:
+         - Projeto Progressivo: fim flexível.
+         - Projeto Regressivo: fim fixo.
+
+   - Problemas:
+      - Incerteza
+      - Vários projetos ao mesmo tempo se compartilhando
+
+Gerente de Projetos:
+   - 

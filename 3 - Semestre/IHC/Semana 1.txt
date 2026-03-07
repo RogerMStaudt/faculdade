@@ -1,0 +1,11 @@
+Semana 1
+
+Design de Experiência:
+Estuda, projeta e avalia a experiência de uso de um
+produto com como um todo, determinando como o
+usuário vai se sentir desde a compra até o descarte do
+produto.
+
+Design de Interface:
+Estuda, projeta e avalia a parte visual, por onde o
+usuário interage com o produto.
